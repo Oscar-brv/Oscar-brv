@@ -13,31 +13,17 @@
 <!-- Logo Skill --->
 <p align="center">
     <!-- Logo Git --->
-    <a>
-        <img align="center" src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white"/>
-    </a>
+    <img align="center" src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white"/>
     <!-- Logo GitHub --->
-    <a>
-        <img align="center" src="https://img.shields.io/badge/Github-gray?style=flat-square&logo=github&logoColor=white"/>
-    </a>
+    <img align="center" src="https://img.shields.io/badge/Github-gray?style=flat-square&logo=github&logoColor=white"/>
     <!-- Logo Python --->
-    <a>
-        <img align="center" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
-    </a>
+    <img align="center" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
     <!-- Logo MicroPython --->
-    <a>
-        <img align="center" src="https://img.shields.io/badge/MicroPython-green?style=flat-square&logo=microPython&logoColor=white"/>
-    </a>
+    <img align="center" src="https://img.shields.io/badge/MicroPython-green?style=flat-square&logo=microPython&logoColor=white"/>
     <!-- Logo Bash --->
-    <a>
-        <img align="center" src="https://img.shields.io/badge/Bash-purple?style=flat-square&logo=GNUBash&logoColor=white"/>
-    </a>
+    <img align="center" src="https://img.shields.io/badge/Bash-purple?style=flat-square&logo=GNUBash&logoColor=white"/>
     <!-- Logo Flutter --->
-    <a>
-        <img align="center" src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/>
-    </a>
+    <img align="center" src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/>
     <!-- Logo Dart --->
-    <a>
-        <img align="center" src="https://img.shields.io/badge/Dart-blue?style=flat-square&logo=Dart&logoColor=white"/>
-    </a>
+    <img align="center" src="https://img.shields.io/badge/Dart-blue?style=flat-square&logo=Dart&logoColor=white"/>
 </p>
