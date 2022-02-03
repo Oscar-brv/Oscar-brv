@@ -14,26 +14,30 @@
 <p align="center">
     <!-- Logo Git --->
     <a>
-        <img align="center" src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white&labelColor=orange"/>
+        <img align="center" src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white"/>
+    </a>
+    <!-- Logo GitHub --->
+    <a>
+        <img align="center" src="https://img.shields.io/badge/Github-gray?style=flat-square&logo=github&logoColor=white"/>
     </a>
     <!-- Logo Python --->
     <a>
-        <img align="center" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white&labelColor=blue"/>
+        <img align="center" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
     </a>
     <!-- Logo MicroPython --->
     <a>
-        <img align="center" src="https://img.shields.io/badge/MicroPython-000000?style=flat-square&logo=microPython&logoColor=white&labelColor=green"/>
+        <img align="center" src="https://img.shields.io/badge/MicroPython-green?style=flat-square&logo=microPython&logoColor=white"/>
     </a>
     <!-- Logo Bash --->
     <a>
-        <img align="center" src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=GNUBash&logoColor=white&labelColor=purple"/>
+        <img align="center" src="https://img.shields.io/badge/Bash-purple?style=flat-square&logo=GNUBash&logoColor=white"/>
     </a>
     <!-- Logo Flutter --->
     <a>
-        <img align="center" src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=Flutter&logoColor=white&labelColor=yellow"/>
+        <img align="center" src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/>
     </a>
     <!-- Logo Dart --->
     <a>
-        <img align="center" src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=Dart&logoColor=white&labelColor=skyblue"/>
+        <img align="center" src="https://img.shields.io/badge/Dart-blue?style=flat-square&logo=Dart&logoColor=white"/>
     </a>
 </p>
