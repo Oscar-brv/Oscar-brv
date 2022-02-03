@@ -6,7 +6,7 @@
 
 <!-- About Me --->
 <p align="center">
-    I'm a <strong>Engineer</strong> who wants to keep learning. :rocket:
+    I'm an <strong>Engineer</strong> who wants to keep learning. :rocket:
 </p>
 
 
