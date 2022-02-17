@@ -12,10 +12,9 @@
 
 <!-- Logo Skill --->
 <p align="center">
-    <a href=""><!-- Logo Git --->
+    <a href="https://github.com/Oscar-brv"><!-- Logo Git --->
     <img align="center" src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white"/>
     </a>
-    
     <!-- Logo GitHub --->
     <img align="center" src="https://img.shields.io/badge/Github-gray?style=flat-square&logo=github&logoColor=white"/>
     <!-- Logo Python --->
