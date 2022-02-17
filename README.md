@@ -25,5 +25,5 @@
     <!-- Logo Flutter --->
     <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=Flutter&logoColor=white"/>
     <!-- Logo Dart --->
-    <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-blue?style=flat-square&logo=Dart&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Dart-blue?style=flat-square&logo=Dart&logoColor=white"/>
 </p>
